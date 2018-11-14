@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		013FF5A0219CB5A10055EAEA /* PeerService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013FF59F219CB5A10055EAEA /* PeerService.swift */; };
+		010DE6F7219CC400005C5D22 /* PictureService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010DE6F6219CC400005C5D22 /* PictureService.swift */; };
 		01C72D96219CB23800063F28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C72D95219CB23800063F28 /* AppDelegate.swift */; };
 		01C72D98219CB23800063F28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C72D97219CB23800063F28 /* ViewController.swift */; };
 		01C72D9B219CB23800063F28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C72D99219CB23800063F28 /* Main.storyboard */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		013FF59F219CB5A10055EAEA /* PeerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeerService.swift; sourceTree = "<group>"; };
+		010DE6F6219CC400005C5D22 /* PictureService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureService.swift; sourceTree = "<group>"; };
 		01C72D92219CB23800063F28 /* peerSend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = peerSend.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C72D95219CB23800063F28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01C72D97219CB23800063F28 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +79,7 @@
 		01C72D89219CB23800063F28 = {
 			isa = PBXGroup;
 			children = (
+				010DE6F6219CC400005C5D22 /* PictureService.swift */,
 				01C72D94219CB23800063F28 /* peerSend */,
 				01C72DA9219CB23900063F28 /* peerSendTests */,
 				01C72DB4219CB23900063F28 /* peerSendUITests */,
@@ -102,7 +103,6 @@
 				01C72D95219CB23800063F28 /* AppDelegate.swift */,
 				01C72D97219CB23800063F28 /* ViewController.swift */,
 				01C72D99219CB23800063F28 /* Main.storyboard */,
-				013FF59F219CB5A10055EAEA /* PeerService.swift */,
 				01C72D9C219CB23900063F28 /* Assets.xcassets */,
 				01C72D9E219CB23900063F28 /* LaunchScreen.storyboard */,
 				01C72DA1219CB23900063F28 /* Info.plist */,
@@ -259,9 +259,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				010DE6F7219CC400005C5D22 /* PictureService.swift in Sources */,
 				01C72D98219CB23800063F28 /* ViewController.swift in Sources */,
 				01C72D96219CB23800063F28 /* AppDelegate.swift in Sources */,
-				013FF5A0219CB5A10055EAEA /* PeerService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
