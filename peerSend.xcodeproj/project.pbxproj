@@ -79,7 +79,6 @@
 		01C72D89219CB23800063F28 = {
 			isa = PBXGroup;
 			children = (
-				010DE6F6219CC400005C5D22 /* PictureService.swift */,
 				01C72D94219CB23800063F28 /* peerSend */,
 				01C72DA9219CB23900063F28 /* peerSendTests */,
 				01C72DB4219CB23900063F28 /* peerSendUITests */,
@@ -102,6 +101,7 @@
 			children = (
 				01C72D95219CB23800063F28 /* AppDelegate.swift */,
 				01C72D97219CB23800063F28 /* ViewController.swift */,
+				010DE6F6219CC400005C5D22 /* PictureService.swift */,
 				01C72D99219CB23800063F28 /* Main.storyboard */,
 				01C72D9C219CB23900063F28 /* Assets.xcassets */,
 				01C72D9E219CB23900063F28 /* LaunchScreen.storyboard */,

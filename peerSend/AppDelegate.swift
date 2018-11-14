@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  peerSend
 //
-//  Created by Ryan Resnick on 11/14/18.
+//  Created by Ryan Resnick & Miles Yohai on 11/14/18.
 //  Copyright © 2018 ghost. All rights reserved.
 //
 

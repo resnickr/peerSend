@@ -2,15 +2,8 @@
 //  PictureService.swift
 //  peerSend
 //
-//  Created by Ryan Resnick on 11/14/18.
+//  Created by Ryan Resnick & Miles Yohai on 11/14/18.
 //  Copyright © 2018 ghost. All rights reserved.
-//
-
-//  PictureService.swift
-//  peerSend
-//
-//  Created by Miles Yohai on 11/13/18.
-//  Copyright © 2018 Miles Yohai. All rights reserved.
 //
 
 import Foundation
